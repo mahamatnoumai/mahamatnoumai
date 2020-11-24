@@ -6,7 +6,7 @@ I am a data enthusiast, backend developer a python developer and an aspiring dat
 
 <!--
 **mahamatnoumai/mahamatnoumai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a data scientist
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about data science and django
 - 📫 How to reach me: email
 - ⚡ Fun fact: ;)
--->
