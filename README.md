@@ -1,7 +1,7 @@
-<h1 align = "center"> Hi, I'm Ali <img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/wave.gif" width="30"></h1> 
+<h1 align = "center"> Hi, I'm Ali <img src="https://github.com/mahamatnoumai/mahamatnoumai/blob/main/wave.gif" width="30"></h1> 
 
 <p align = "center">
-<img src='https://github.com/Khaliladib11/Khaliladib11/blob/main/giphy.gif' border='10'/>
+<img src='https://github.com/mahamatnoumai/mahamatnoumai/blob/main/giphy.gif' border='10'/>
 </p>
 
 
